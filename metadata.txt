@@ -1,0 +1,9 @@
+[general]
+name=cft
+description=conservation forecasting tool
+about=About this minimal plugin
+version=1.0
+qgisMinimumVersion=3.0
+author=VRC
+email=vance@3point.xyz
+repository=https://github.com/VRConservation/cft.git
